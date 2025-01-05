@@ -56,9 +56,9 @@ Bounding set은 해당 시스템이 사용할 수 있는 최대치의 능력 리
 
 특히 대표적인 컨테이너상 보안 이슈인 컨테이너 탈출(container escape) 문제가 발생하기 쉽습니다. 실제로 구글에 "privileged container escape"라고 검색만 해도 특권 컨테이너에서 호스트 시스템으로 탈출하는 익스플로잇을 설명한 아주 많은 글을 찾을 수 있습니다. 구체적인 익스플로잇 방법은 이 글의 주제와 조금은 떨어져 있기에 관심 있으실 만한 분들을 위해 몇 가지 글을 링크해 드리겠습니다.
 
-- [Understanding Docker container escapes](링크)
-- [Privileged Containers Aren't Containers](링크)
-- [Docker Breakout / Privilege Escalation](링크)
+- [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
+- [Privileged Containers Aren't Containers](https://ericchiang.github.io/post/privileged-containers/)
+- [Docker Breakout / Privilege Escalation](https://github.com/HackTricks-wiki/hacktricks/blob/master/linux-hardening/privilege-escalation/docker-security/docker-breakout-privilege-escalation/README.md)
 
 위 글들을 얼핏 살펴보시는 것만으로도 아실 수 있겠지만, 몇 가지 조건만 충족된다면 정말 매우 쉽게 컨테이너를 탈출할 수 있음을 보여줍니다.
 
