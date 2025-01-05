@@ -1,4 +1,4 @@
-# 리눅스 능력과 특권 컨테이너의 위험성
+# Risks of Linux Capabilities and Privileged Containers
 
 우리가 친숙한 도커 커맨드를 실행할 때는 가끔 `--privileged` 옵션을 사용하는 경우를 보았을 것이다. 하지만 이 옵션은 보안상 위험도가 매우 높고 사용을 자제하는 것을 권장한다. 이 privileged container, 즉 특권 컨테이너의 위험성을 알아본다.
 
