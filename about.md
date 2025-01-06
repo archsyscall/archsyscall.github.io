@@ -10,4 +10,3 @@ DDIA는 유명하지만 CSAPP과 OSTEP은 정말 많은 분들이 읽어보셨�
 
 아래는 제가 좋아하는 것들입니다.
 vim, linux, zig, rust, anki, ghostty, elixir, stow, fish, tmux, lua, dual-n-back
-면
