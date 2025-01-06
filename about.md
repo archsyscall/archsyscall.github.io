@@ -12,4 +12,4 @@ github: https://github.com/marload
 DDIA는 유명하지만 CSAPP과 OSTEP은 정말 많은 분들이 읽어보셨으면 좋겠습니다.
 
 아래는 제가 좋아하는 것들입니다.
-vim, linux, zig, rust, anki, ghostty, elixir, stow, fish, tmux, lua, dual-n-back
+opensource, vim, linux, zig, rust, anki, ghostty, elixir, stow, fish, tmux, lua, dual-n-back
