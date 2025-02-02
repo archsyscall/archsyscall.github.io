@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Marload's Blog
+title: ArchSyscall
 description: Software Engineering
-github_username: marload
+github_username: archsyscall
 
 # Email and twitter are optional:
-email: marload.kim@gmail.com
+email: archsyscall@gmail.com
 # twitter_username:
 
 # Set this to true to get LaTeX math equation support
